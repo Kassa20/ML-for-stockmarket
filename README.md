@@ -1,6 +1,6 @@
 # Using past microsoft stock prices to predict future prices
 
-The model tries to predict for dates 2021-11-08 upto 2021-11-19
+The model tries to predict for dates 2021-11-08 upto 2021-11-19.
 This is how well my model did. Its worth noting that the model becomes less accurate when trying to predict longer sequences. 
 
 <img width="359" height="355" alt="low" src="https://github.com/user-attachments/assets/6e2b667e-b49b-476a-9a9b-13a8c616756a" />
